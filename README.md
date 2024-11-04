@@ -8,6 +8,4 @@ uh oh this will cause a conflict
 a deliberate conflict
 
 
-# getting started
 
-okay
